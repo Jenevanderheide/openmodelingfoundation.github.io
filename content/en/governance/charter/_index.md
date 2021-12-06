@@ -26,6 +26,9 @@ on one another's research.
 
 ## Mission and Goals
 
+Through fostering innovative modeling science, the Open
+Modeling Foundation endeavors to help humanity confront rapidly changing
+and ever more complex and global issues, and improve human well-being. 
 The Open Modeling Foundation (OMF) is an international open science
 community that works to enable the next generation modeling of human and
 natural systems. The Open Modeling Foundation is an alliance of modeling
@@ -64,9 +67,7 @@ In these ways, the Open Modeling Foundation seeks to enable the many
 scientists across the world who are represented by its member
 organizations to contribute to nimble, effective modeling of natural
 systems, human systems, and their integration at multiple spatial and
-temporal scales. Through fostering innovative modeling science, the Open
-Modeling Foundation endeavors to help humanity confront rapidly changing
-and ever more complex and global issues, and improve human well-being.
+temporal scales. 
 
 ---
 
